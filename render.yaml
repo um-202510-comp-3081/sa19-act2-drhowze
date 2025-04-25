@@ -1,5 +1,5 @@
 databases:
-- name: users-demo
+- name: webby-database
   plan: free
 services:
 - type: web
